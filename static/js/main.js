@@ -1,0 +1,1 @@
+﻿function handleLanguage() {$('#language-selector-modal').show();}function handleCloseLanguage() {$('#language-selector-modal').hide();}
